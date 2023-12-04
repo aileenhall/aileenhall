@@ -2,7 +2,7 @@
 
 <!--
 **aileenhall/aileenhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+git clone <https://github.com/aileenhall/aileenhall>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
